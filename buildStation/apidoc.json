@@ -1,0 +1,9 @@
+{
+  "name": "buildStation",
+  "version": "1.0.0",
+  "description": "buildStationAPI接口文档",
+  "title": "WMS",
+  "url" : "192.168.177.171:10034/",
+  "sampleUrl": "192.168.177.171:10034/"
+
+}
